@@ -9,7 +9,7 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
-# Remove commit history ::smile::
+# Remove commit history
 
 Accidental commits can be tricky to remove with Git. In this GitHub Skills course, you'll use BFG Repo-Cleaner to to change the history of a Git repository. You can apply what you learn in this course to fully remove sensitive material from your own repository.
 
